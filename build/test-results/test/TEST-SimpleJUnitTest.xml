@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleJUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-19T11:53:04" hostname="DESKTOP-Q7TGFG6" time="4.553">
+  <properties/>
+  <testcase name="SimpleJUnitTest" classname="SimpleJUnitTest" time="4.553"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J(W): Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J(W): Ignoring binding found at [jar:file:/C:/Users/Drondo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.36/a41f9cfe6faafb2eb83a1c7dd2d0dfd844e2a936/slf4j-simple-1.7.36.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J(W): See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+окт. 19, 2025 2:53:05 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 141
+окт. 19, 2025 2:53:05 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 141.0.7390.78. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.19.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
